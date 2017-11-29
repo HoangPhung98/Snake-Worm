@@ -1,0 +1,12 @@
+hoang 29
+lol 27
+bug 7
+' 5
+hoangdeptrai 4
+hoang 4
+x 4
+s 3
+x 3
+null 2
+null 0
+bin 20
